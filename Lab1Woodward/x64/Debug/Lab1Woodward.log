@@ -1,0 +1,3 @@
+﻿  Laboratory.cpp
+C:\Users\rwood\OneDrive\Desktop\Programs\Lab1Woodward\Laboratory.cpp(18,10): warning C4305: '=': truncation from 'double' to 'float'
+  Lab1Woodward.vcxproj -> C:\Users\rwood\OneDrive\Desktop\Programs\Lab1Woodward\x64\Debug\Lab1Woodward.exe
